@@ -1,3 +1,5 @@
+package Examples;
+
 public class Recursion {
     static int factorial(int n) {
         int result;

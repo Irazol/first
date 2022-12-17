@@ -1,3 +1,5 @@
+package Examples;
+
 public class C05_MethodsRecursion {
     // Рекурсія (проста рекурсія).
 

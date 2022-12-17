@@ -1,3 +1,5 @@
+package Examples;
+
 public class C06_MethodsRecursion {
     // Рекурсія (складна рекурсія).
     // Складна рекурсія – виклик методом себе, через інший метод.

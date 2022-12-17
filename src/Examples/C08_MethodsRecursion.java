@@ -1,3 +1,5 @@
+package Examples;
+
 import java.util.Scanner;
 public class C08_MethodsRecursion {
     // Знаходження найбільшого загального дільника (НДД) двох цілих чисел
