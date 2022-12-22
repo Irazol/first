@@ -14,8 +14,7 @@ public class User {
         this.age = age;
     }
 
-    public User(String name, String e_male, String phone) {
-        this.name = name;
+    public User(String name, String e_male, String phone) {        this.name = name;
         this.e_male = e_male;
         this.phone = phone;
     }

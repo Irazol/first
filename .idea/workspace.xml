@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c9d2e15-5196-45af-bbd2-00cdbd9769c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="6c9d2e15-5196-45af-bbd2-00cdbd9769c6" name="Changes" comment=")">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C05_MethodsRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/C05_MethodsRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C06_MethodsRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/C06_MethodsRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C08_MethodsRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/C08_MethodsRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/Fib.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fibonachi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/Fibonachi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/MyProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/System_out_format.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/System_out_format.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson8/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson8/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +16,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,6 +44,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
     &quot;two.files.diff.last.used.file&quot;: &quot;C:/Java/first/src/Program.java&quot;,
     &quot;two.files.diff.last.used.folder&quot;: &quot;C:/Java/first/src/Lesson5&quot;
   }
@@ -59,14 +53,17 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Java\first\out" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Lesson9.Task1" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.User">
-    <configuration name="Array4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson5.Array4" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson9.Task1.Task1.Book" />
       <module name="first" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson5.*" />
+          <option name="PATTERN" value="Lesson9.Task1.Task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson5.Array5" />
+    <configuration name="Computers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson9.Task2.Computers" />
       <module name="first" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson5.*" />
+          <option name="PATTERN" value="Lesson9.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,16 +84,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Fib" />
+    <configuration name="Lesson9.Task1.Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson9.Task1.Book" />
       <module name="first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson9.Task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonachi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Fibonachi" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson9.Task3.Main" />
       <module name="first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson9.Task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Computers" />
+        <item itemvalue="Application.Lesson9.Task1.Book" />
+        <item itemvalue="Application.Book" />
         <item itemvalue="Application.User" />
-        <item itemvalue="Application.Fibonachi" />
-        <item itemvalue="Application.Fib" />
-        <item itemvalue="Application.Array5" />
-        <item itemvalue="Application.Array4" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +142,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668186046226</updated>
     </task>
+    <task id="LOCAL-00001" summary=")">
+      <created>1671285992414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671285992414</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +162,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=")" />
+    <option name="LAST_COMMIT_MESSAGE" value=")" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/first$Test.ic" NAME="Test Coverage Results" MODIFIED="1668188793296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
