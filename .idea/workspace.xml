@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c9d2e15-5196-45af-bbd2-00cdbd9769c6" name="Changes" comment=")">
+      <change afterPath="$PROJECT_DIR$/src/Lesson10/Task1/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson8/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson8/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/While/While1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/While/While1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,13 +61,13 @@
       <recent name="Lesson9.Task1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson9.Task1.Task1.Book" />
+  <component name="RunManager" selected="Application.Lesson10.Task2.Main">
+    <configuration name="Examples.Casting1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Casting1.Main" />
       <module name="first" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson9.Task1.Task1.*" />
+          <option name="PATTERN" value="Examples.Casting1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Computers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson9.Task2.Computers" />
+    <configuration name="Examples.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Main" />
       <module name="first" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson9.Task2.*" />
+          <option name="PATTERN" value="Examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson9.Task1.Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson9.Task1.Book" />
+    <configuration name="Lesson10.Task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson10.Task2.Main" />
       <module name="first" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson9.Task1.*" />
+          <option name="PATTERN" value="Lesson10.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +102,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson9.Task3.Main" />
+      <option name="MAIN_CLASS_NAME" value="Examples.Casting.Main" />
       <module name="first" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson9.Task3.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson8.User" />
+    <configuration name="Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson10.Task2.Printer" />
       <module name="first" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson8.*" />
+          <option name="PATTERN" value="Lesson10.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson10.Task2.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Computers" />
-        <item itemvalue="Application.Lesson9.Task1.Book" />
-        <item itemvalue="Application.Book" />
-        <item itemvalue="Application.User" />
+        <item itemvalue="Application.Examples.Main" />
+        <item itemvalue="Application.Examples.Casting1.Main" />
+        <item itemvalue="Application.Printer" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671285992414</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=")">
+      <created>1671728542707</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671728542707</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +177,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value=")" />
     <option name="LAST_COMMIT_MESSAGE" value=")" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassCastException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/first$Test.ic" NAME="Test Coverage Results" MODIFIED="1668188793296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
