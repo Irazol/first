@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c9d2e15-5196-45af-bbd2-00cdbd9769c6" name="Changes" comment=")">
-      <change afterPath="$PROJECT_DIR$/src/Lesson10/Task1/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/While/While1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/While/While1.java" afterDir="false" />
-    </list>
+    <list default="true" id="6c9d2e15-5196-45af-bbd2-00cdbd9769c6" name="Changes" comment=")" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
@@ -17,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -25,6 +28,12 @@
     <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -61,39 +70,13 @@
       <recent name="Lesson9.Task1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lesson10.Task2.Main">
-    <configuration name="Examples.Casting1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Casting1.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Binaryre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Binaryre" />
       <module name="first" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.Casting1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Examples.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Main" />
-      <module name="first" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson10.Task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson10.Task2.Main" />
-      <module name="first" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson10.Task2.*" />
+          <option name="PATTERN" value="Examples.Recursionn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +85,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Casting.Main" />
+      <option name="MAIN_CLASS_NAME" value="Lesson11.Main" />
       <module name="first" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="Lesson11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +97,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson10.Task2.Printer" />
+    <configuration name="Rec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Recursionn.Rec" />
       <module name="first" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson10.Task2.*" />
+          <option name="PATTERN" value="Examples.Recursionn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rec1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Recursionn.Rec1" />
+      <module name="first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examples.Recursionn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Recursionn.Solution" />
+      <module name="first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examples.Recursionn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lesson10.Task2.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Examples.Main" />
-        <item itemvalue="Application.Examples.Casting1.Main" />
-        <item itemvalue="Application.Printer" />
+        <item itemvalue="Application.Binaryre" />
+        <item itemvalue="Application.Rec" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Rec1" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671728542707</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=")">
+      <created>1671978713070</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671978713070</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
